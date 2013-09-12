@@ -1,6 +1,6 @@
 # Rulers
 
-TODO: Write a gem description
+Is the new rails
 
 ## Installation
 
